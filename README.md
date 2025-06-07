@@ -10,7 +10,7 @@ To generate the QR code:
   - cups (if you want to directly print it)
 
 To decode the QR code:
-  - zbar (if you have an svg image)
+  - zbar (if you have a PNG image)
 
 ## Tools
 
