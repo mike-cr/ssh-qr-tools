@@ -1,4 +1,4 @@
-Backup an openssh Ed25519 privkey by extracting the 32B scalar & comment and generating a QR code. It just stores the 32B scalar (and comment if there is one) to make the QR code smaller. This is intended to be used with a receipt printer so targets a 72mm printing with for 80mm receipt paper. 
+Backup an openssh Ed25519 privkey by extracting the 32B scalar & comment and generating a QR code. It just stores the 32B scalar (and comment if there is one) to make the QR code smaller. This is intended to be used with a receipt printer so targets a 72mm printing width for 80mm receipt paper. 
 
 ## Requirements
 
